@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+こんにちは！
+
+[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!--
 **nbr41to/nbr41to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
