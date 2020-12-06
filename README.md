@@ -1,8 +1,24 @@
-### Hi 👋
-こんにちは！
+## Welcom!! nob github 🍊
 
-[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+### Introduction
 
+数学教えたり,プログラミング教えたり,Web アプリ開発したりしているフリーランスエンジニア.
+
+### Tags
+
+プログラミング/Technology/数学/教育/脳科学/心理学/HSP/健康/BioHack/AntiAging/ルービックキューブ/Notion/スポーツ
+
+<!-- 草生えるやつ -->
+
+[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- 言語ごとのrepo -->
+
+[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!-- 言語ごとのcomit -->
+
+[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--
 **nbr41to/nbr41to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
