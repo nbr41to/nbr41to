@@ -1,15 +1,15 @@
-## Welcome!! のぶのぎっとはぶ 🍎
+# Welcome!! のぶのぎっとはぶ 🍎
 
-### Introduction
+## Introduction
 
 学校の先生からフリーランスエンジニアになたよ 🧑🏻‍🏫→🧑🏻‍💻
 本当は忍者になりたい 🥷
 
 数学教えたり,プログラミング教えたり,Web アプリ開発したりしているフリーランスエンジニア.
 
-### Tags
+## Tags
 
-プログラミング/Technology/数学/教育/脳科学/心理学/HSP/健康/BioHack/AntiAging/ルービックキューブ/Notion/スポーツ
+プログラミング/Technology/数学/教育/脳科学/心理学/HSP/健康/BioHack/AntiAging/ルービックキューブ/Notion/スポーツ/ゲーム
 
 <!-- 草生えるやつ -->
 
