@@ -1,4 +1,9 @@
 # Welcome!! のぶのぎっとはぶ 🍎
+2020年からプログラミング学習してエンジニアになたよ
+
+[My Site](https://nbr41.com/)
+[Zenn blog](https://zenn.dev/nbr41to)
+[YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)
 
 ## Introduction
 
