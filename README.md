@@ -1,19 +1,28 @@
 # Welcome!! のぶのぎっとはぶ 🍎
-2020年からプログラミング学習してエンジニアになたよ
+2020年からプログラミング学習してフロントエンジニアになたよー
 
 [My Site](https://nbr41.com/)
 
-[Zenn blog](https://zenn.dev/nbr41to)
+[Zenn](https://zenn.dev/nbr41to)
 
 [YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)
 
+[progLab](https://proglab.vercel.app/)
+
+[Notion Blog](https://noblog.nbr41.com/)
+
+
 ## Introduction
 
-学校の先生からフリーランスエンジニアになたよ 🧑🏻‍🏫→🧑🏻‍💻
+学校の先生→フリーランスエンジニア
 
 本当は忍者になりたい 🥷
 
-数学教えたり,プログラミング教えたり,Web アプリ開発したりしているフリーランスエンジニア.
+数学教えたり, プログラミング教えたり, Webアプリ開発したりしている心理学に詳しい人.
+
+## Interest tech
+
+React.js/Next.js/Firebase/AWS Amplify/GraphQL/Golong/Storybook/
 
 ## Tags
 
