@@ -1,15 +1,11 @@
 # Welcome!! のぶのぎっとはぶ 🍎
+
 2020年からプログラミング学習してフロントエンジニアになたよー
 
-[My Site](https://nbr41.com/)
+学習用のRepositry一覧は[こちら](https://github.com/prog-learning)です.
+他の人の教材にもなるように随時Brushupもしております.
 
-[Zenn](https://zenn.dev/nbr41to)
-
-[YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)
-
-[progLab](https://proglab.vercel.app/)
-
-[Notion Blog](https://noblog.nbr41.com/)
+https://github.com/prog-learning
 
 
 ## Introduction
@@ -22,7 +18,19 @@
 
 ## Interest tech
 
-React.js/Next.js/Firebase/AWS Amplify/GraphQL/Golong/Storybook/
+HTML/CSS/Sass/JavaScript/React/TypeScript/Nextjs/Storybook/Firebase/AWS Amplify/GraphQL/Golang/GitHub/Notion
+
+# My Link
+
+[My Site](https://nbr41.com/)
+
+[Zenn](https://zenn.dev/nbr41to)
+
+[YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)
+
+[progLab](https://proglab.vercel.app/)
+
+[Notion Blog](https://noblog.nbr41.com/)
 
 ## Tags
 
