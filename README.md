@@ -15,7 +15,7 @@ https://github.com/prog-learning
 ## can do（できること）
 HTML/CSS/Sass/JavaScript/React/Nextjs/TypeScript/Storybook/Firebase/git/GitHub/Notion
 
-## interest
+## interest（興味があるもの）
 lang:
 HTML/CSS/Sass/JavaScript/React/TypeScript/GraphQL/Node/Golang/git/GitHub/React Native
 
@@ -25,27 +25,13 @@ Notion/Nextjs//Storybook/Firebase/AWS Amplify/recoil/SWR/react-hook-form/styled-
 others:
 プログラミング/Technology/数学/教育/脳科学/心理学/HSP/健康/BioHack/AntiAging/ルービックキューブ/Notion/スポーツ/ゲーム
 
-## links
+## links（リンク集）
 
-[MySite&Blog](https://nbr41.com/)
-
-NotionAPIを使った自己紹介用のポートフォリオBlog
-
-[progLab](https://proglab.nbr41.com/)
-
-プログラミングを学ぶためのコミュニティを運営してます
-
-[Zenn](https://zenn.dev/nbr41to)
-
-アウトプット用に記事や本を書いてます
-
-[YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)
-
-アウトプットとして学んだ内容を投稿してます
-
-[Twitter](https://twitter.com/Knob_nbr41to)
-
-雑多アウトプット
+- [MySite&Blog](https://nbr41.com/)：NotionAPIを使った自己紹介用のポートフォリオBlog
+- [progLab](https://proglab.nbr41.com/)：プログラミングを学ぶためのコミュニティを運営してます
+- [Zenn](https://zenn.dev/nbr41to)：アウトプット用に記事や本を書いてます
+- [YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)：アウトプットとして学んだ内容を投稿してます
+- [Twitter](https://twitter.com/Knob_nbr41to)：雑多アウトプット
 
 <!-- 草生えるやつ -->
 
