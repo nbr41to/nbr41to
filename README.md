@@ -1,40 +1,51 @@
 # Welcome!! のぶのぎっとはぶ 🍎
 
-2020年からプログラミング学習してフロントエンジニアになたよー
+2020年よりプログラミング学習開始
+
+## bio（自己紹介）
+2020年からプログラミングを学習して学校の先生からフロントエンジニアになりました。
+学ぶことの楽しさと人の幸福や人生感を日々探求・実践しており、公認心理師の勉強もしております。
+いつかの新しい教育のため、子どもの未来の幸福のため、自己研鑽に励みます。
 
 学習用のRepositry一覧は[こちら](https://github.com/prog-learning)です.
-他の人の教材にもなるように随時Brushupもしております.
+他の人の教材になるように随時Brushupもしております.
 
 https://github.com/prog-learning
 
+## can do（できること）
+HTML/CSS/Sass/JavaScript/React/Nextjs/TypeScript/Storybook/Firebase/git/GitHub/Notion
 
-## Introduction
+## interest
+lang:
+HTML/CSS/Sass/JavaScript/React/TypeScript/GraphQL/Node/Golang/git/GitHub/React Native
 
-学校の先生→フリーランスエンジニア
+XaaS/FW/lib:
+Notion/Nextjs//Storybook/Firebase/AWS Amplify/recoil/SWR/react-hook-form/styled-components/MUI/Antd/React Strap/
 
-本当は忍者になりたい 🥷
+others:
+プログラミング/Technology/数学/教育/脳科学/心理学/HSP/健康/BioHack/AntiAging/ルービックキューブ/Notion/スポーツ/ゲーム
 
-数学教えたり, プログラミング教えたり, Webアプリ開発したりしている心理学に詳しい人.
+## links
 
-## Interest tech
+[MySite&Blog](https://nbr41.com/)
 
-HTML/CSS/Sass/JavaScript/React/TypeScript/Nextjs/Storybook/Firebase/AWS Amplify/GraphQL/Golang/GitHub/Notion
+NotionAPIを使った自己紹介用のポートフォリオBlog
 
-# My Link
+[progLab](https://proglab.nbr41.com/)
 
-[My Site](https://nbr41.com/)
+プログラミングを学ぶためのコミュニティを運営してます
 
 [Zenn](https://zenn.dev/nbr41to)
 
+アウトプット用に記事や本を書いてます
+
 [YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)
 
-[progLab](https://proglab.vercel.app/)
+アウトプットとして学んだ内容を投稿してます
 
-[Notion Blog](https://noblog.nbr41.com/)
+[Twitter](https://twitter.com/Knob_nbr41to)
 
-## Tags
-
-プログラミング/Technology/数学/教育/脳科学/心理学/HSP/健康/BioHack/AntiAging/ルービックキューブ/Notion/スポーツ/ゲーム
+雑多アウトプット
 
 <!-- 草生えるやつ -->
 
