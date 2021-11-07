@@ -1,6 +1,5 @@
 # Welcome!! のぶのぎっとはぶ 🍎
-<!-- ビュー数 -->
-![](https://komarev.com/ghpvc/?username=nbr41to&color=blue&style=plastic&label=profile+views)
+
 
 2020年よりプログラミング学習開始
 
@@ -44,3 +43,8 @@ others:
 
 <!-- トロフィーのやつ https://github.com/ryo-ma/github-profile-trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=nbr41to&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- ビュー数 -->
+![](https://komarev.com/ghpvc/?username=nbr41to&color=blue&style=plastic&label=profile+views) 2021/11/07 〜
+
+<!-- トロフィーのやつ https://github.com/ryo-ma/github-profile-trophy -->
