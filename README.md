@@ -1,4 +1,6 @@
 # Welcome!! のぶのぎっとはぶ 🍎
+<!-- ビュー数 -->
+![](https://komarev.com/ghpvc/?username=nbr41to&color=blue&style=plastic&label=profile+views)
 
 2020年よりプログラミング学習開始
 
@@ -33,25 +35,9 @@ others:
 - [YouTube](https://www.youtube.com/channel/UCPcjWvYIfvqGPP4x30kEkMA)：アウトプットとして学んだ内容を投稿してます
 - [Twitter](https://twitter.com/Knob_nbr41to)：雑多アウトプット
 
-<!-- 草生えるやつ -->
-
-[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!-- 言語ごとのcomitとrepo -->
-
-[![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/nbr41to/nbr41to/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-<!--
-**nbr41to/nbr41to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 草のグラフ -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nbr41to&theme=github_dark)
+<!-- スターやコミット時間 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nbr41to&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nbr41to&theme=github_dark)
+<!-- 言語ごとのレポート -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nbr41to&theme=github_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nbr41to&theme=github_dark)
